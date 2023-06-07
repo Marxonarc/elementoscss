@@ -1,0 +1,106 @@
+.btn-botao1 {
+    
+    list-style-type: none;
+    margin: 15px;
+    padding: 20px 20px 20px 20px;
+border-radius: 1px 15px 1px 15px;
+text-align: center;
+font-size: 20px;
+margin-left: 0px;
+}
+
+.btn-botao2 {
+    list-style-type: none;
+    margin: 15px;
+    padding: 20px 20px 20px 20px;
+border-radius: 15px 1px 15px 1px;
+text-align: center;
+font-size: 20px;
+margin-left: 0px;
+}
+
+.btn-uva {
+    background-color: blueviolet;
+    color: white;
+}
+
+.btn-uva:hover {background-color: #8B008B;
+
+}
+
+.btn-brocolis {
+    background-color: #228B22;
+    color: white;
+}
+
+.btn-brocolis:hover {background-color: #6B8E23;
+
+}
+
+.btn-morango {
+        background-color: #B22222;
+        color: white;
+}
+
+.btn-morango:hover {background-color: 	#DC143C;
+
+}
+
+.btn-rosa {
+    background-color: #C71585;
+    color: white;
+}
+
+.btn-rosa:hover {background-color: violet;
+
+}
+
+.btn-black {
+    background-color: #363636;
+    color: white;
+}
+
+.btn-black:hover {background-color: #000000	;
+
+}
+
+.nav-barra {
+    background-color: 	#87CEFA;
+    border-radius: 10px;
+    color: white;
+  
+}
+
+
+.card {
+    background-color: #87CEFA;
+    border-radius: 100px;
+    text-align: center;
+    font-size: 18px;
+    
+
+}
+
+.card:hover {
+    background-color: #4169E1;
+    color: white;
+    box-shadow: black 2px 2px 10px;
+
+}
+
+.borda {
+    border-color: black;
+    border:2px solid black;
+    
+}
+
+.accordion-button:hover {
+    background-color: #1E90FF;
+
+    
+}
+
+.btn-onepiece {
+    background-color: #87CEEB;
+    color: white;
+}
