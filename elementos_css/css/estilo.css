@@ -104,3 +104,31 @@ margin-left: 0px;
     background-color: #87CEEB;
     color: white;
 }
+
+.table-primary {
+    background-color: blue;
+    text-align: center;
+    text-decoration-color: white;
+    border-style: solid;
+    border-style: groove;
+}
+
+.tbn-usopp {
+    border: 5px solid 	#DAA520;
+    border-radius: 40px 40px;
+    padding: 5px;
+    width: 400px;
+    height: 400px;
+  }
+  
+  .polaroid {
+    width: 80%;
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-bottom: 25px;
+  }
+  
+  .pld-container {
+    text-align: center;
+    padding: 10px 20px;
+  }
